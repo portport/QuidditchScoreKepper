@@ -1,2 +1,2 @@
 # QuidditchScoreKepper
-ABND Project 2
+Project 2 Score Keeper App ABND
